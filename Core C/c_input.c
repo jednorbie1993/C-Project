@@ -3,10 +3,11 @@
 int main() {
     int num;
 
-    printf("enter a number");
+    printf("Enter a number: ");
     scanf("%d", &num);
-    
-    printf("you entered: %d\n", num);
+
+    printf("You entered: %d\n", num);
 
     return 0;
 }
+//scanf
